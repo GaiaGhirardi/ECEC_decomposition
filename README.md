@@ -6,8 +6,8 @@ This repository contains the instructions and code necessary to replicate the re
 Authors and affiliation" 
 
 # Authors
-- Gaia Ghirardi: Postdoctoral Researcher at the Department of Statistical Science “Paolo Fortunati”, University of Bologna
-- Filippo Gioachin: Postdoctoral Researcher at the Department of Sociology and Social Research, University of Trento
+- Gaia Ghirardi, Postdoctoral Research Fellow at the Department of Statistical Science “Paolo Fortunati”, University of Bologna
+- Filippo Gioachin, Postdoctoral Research Fellow at the Department of Sociology and Social Research, University of Trento
 
 # Data
 We draw on the new-born sample (SC1 - https://www.neps-data.de/Data-Center/Data-and-Documentation/Start-Cohort-Newborns/105157-NEPSSC1600) of the National Educational Panel Study (NEPS - https://https://www.neps-data.de/Mainpage/)
