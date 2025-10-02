@@ -10,7 +10,7 @@ Authors and affiliation"
 - Filippo Gioachin, Postdoctoral Research Fellow at the Department of Sociology and Social Research, University of Trento
 
 # Journal 
-_Acta Sociologica _
+_Acta Sociologica_
 
 # Data
 We draw on the new-born sample (SC1 - https://www.neps-data.de/Data-Center/Data-and-Documentation/Start-Cohort-Newborns/105157-NEPSSC1600) of the National Educational Panel Study (NEPS - https://https://www.neps-data.de/Mainpage/)
