@@ -1,13 +1,16 @@
 # Read Me
-This repository contains the instructions and code necessary to replicate the results presented in the manuscript in _Acta Sociologica_ by Ghirardi and Gioachin (2025)
+This repository contains the instructions and code necessary to replicate the results presented in the manuscript by Ghirardi and Gioachin (2025) in _Acta Sociologica_ by
 
-# Title
+# Title 
 "Center-based ECEC closes gaps, others may widen them: A decomposition of how different childcare arrangements shape early educational inequality
 Authors and affiliation" 
 
 # Authors
 - Gaia Ghirardi, Postdoctoral Research Fellow at the Department of Statistical Science “Paolo Fortunati”, University of Bologna
 - Filippo Gioachin, Postdoctoral Research Fellow at the Department of Sociology and Social Research, University of Trento
+
+# Journal 
+Acta Sociologica 
 
 # Data
 We draw on the new-born sample (SC1 - https://www.neps-data.de/Data-Center/Data-and-Documentation/Start-Cohort-Newborns/105157-NEPSSC1600) of the National Educational Panel Study (NEPS - https://https://www.neps-data.de/Mainpage/)
